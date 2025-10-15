@@ -59,10 +59,8 @@ It blinks the green LED on a periodic timer and adjusts the blink rate with **SW
 
 ## 📄 License & Credits
 
-	•	µC/OS-II Kernel: Apache-2.0 license (© Silicon Labs)
-	•	uC/AO Framework & Application Code: Apache-2.0 / educational adaptation
-	•	Based on concepts from Quantum Leaps — Modern Embedded Programming (M. Samek)
-	•	See individual file headers for SPDX identifiers.
+	- Main application code: MIT (see `LICENSE.txt`)
+	- Third-party components and their licenses: see `THIRD_PARTY_NOTICES.md`
 
 ## ✨ Author
 **Alexandre Panhaleux**  
