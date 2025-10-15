@@ -20,8 +20,8 @@
 #ifndef UC_AO_H
 #define UC_AO_H
 
+#include <qassert_mini.h>  /* embedded-systems-friendly assertions (DbC) */
 #include "ucos_ii.h"  /* uC/OS-II API, port and compile-time configuration */
-#include "qassert.h"  /* embedded-systems-friendly assertions (DbC) */
 
 /*---------------------------------------------------------------------------*/
 /* Event facilities... */

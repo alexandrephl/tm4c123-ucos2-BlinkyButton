@@ -5,8 +5,8 @@
 * @author  Alexandre Panhaleux
 ******************************************************************************/
 
+#include <qassert_mini.h>  /* embedded-system-friendly assertions */
 #include "uc_ao.h"  /* uC/OS-II API, port and compile-time configuration */
-#include "qassert.h"  /* embedded-system-friendly assertions */
 #include "bsp.h"      /* Board Support Package */
 
 #include <stdbool.h>             /* needed by the TI drivers */
