@@ -47,8 +47,8 @@
 								<option id="com.ti.ccstudio.buildDefinitions.TMS470_GNU_9.0.compilerID.DWARF_VERSION.1795565161" name="Generate debug information in DWARF version (-gdwarf-)" superClass="com.ti.ccstudio.buildDefinitions.TMS470_GNU_9.0.compilerID.DWARF_VERSION" useByScannerDiscovery="false" value="com.ti.ccstudio.buildDefinitions.TMS470_GNU_9.0.compilerID.DWARF_VERSION.3" valueType="enumerated"/>
 								<option IS_BUILTIN_EMPTY="false" IS_VALUE_EMPTY="false" id="com.ti.ccstudio.buildDefinitions.TMS470_GNU_9.0.compilerID.INCLUDE_PATH.793027445" name="Include paths (-I)" superClass="com.ti.ccstudio.buildDefinitions.TMS470_GNU_9.0.compilerID.INCLUDE_PATH" valueType="includePath">
 									<listOptionValue builtIn="false" value="/Users/alexandrepanhaleux/Developer/CCS_Workspace/Lesson35/ek-tm4c123gxl"/>
-									<listOptionValue builtIn="false" value="/Users/alexandrepanhaleux/Developer/CCS_Workspace/Lesson35/ucos2_ports"/>
 									<listOptionValue builtIn="false" value="/Users/alexandrepanhaleux/Developer/CMSIS/Include"/>
+									<listOptionValue builtIn="false" value="/Users/alexandrepanhaleux/Developer/CCS_Workspace/Lesson35/ucos2_ports"/>
 									<listOptionValue builtIn="false" value="/Users/alexandrepanhaleux/Developer/CCS_Workspace/Lesson35/Application"/>
 									<listOptionValue builtIn="false" value="/Users/alexandrepanhaleux/Developer/CCS_Workspace/Lesson35/ucos2"/>
 								</option>
