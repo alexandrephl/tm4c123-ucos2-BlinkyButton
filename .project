@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-	<name>tm4c123-ucos2-activeobject-main</name>
+	<name>Lesson35</name>
 	<comment></comment>
 	<projects>
 	</projects>
@@ -24,10 +24,4 @@
 		<nature>org.eclipse.cdt.core.ccnature</nature>
 		<nature>org.eclipse.cdt.managedbuilder.core.ScannerConfigNature</nature>
 	</natures>
-	<variableList>
-		<variable>
-			<name>LED</name>
-			<value>file:/Applications/TI/TivaWare-2.2.0.295</value>
-		</variable>
-	</variableList>
 </projectDescription>
