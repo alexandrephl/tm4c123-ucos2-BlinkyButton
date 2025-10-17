@@ -11,15 +11,17 @@ It blinks the green LED on a periodic timer and adjusts the blink rate with **SW
 
 
 |  
-├── Application/                 # Your application logic (main, bsp)  
+├── Application/                 	# Your application logic (main, bsp, uc_ao...)  
 |  
-├── ucos2/               		     # CMSIS core headers  
+├── ucos2/               		    # µC/OS-II kernel sources 
 |  
-├── ucos2_ports/               		     # CMSIS core headers  
+├── ucos2_ports/               		# µC/OS-II port for Cortex-M4 
 |
-├── ek-tm4c123gxl/               # Board/Microcontroller-specific files  
+├── ek-tm4c123gxl/               	# Board/Microcontroller-specific files  
 |  
-├── targetConfig/                # Target Configurations  
+├── CMSIS/               		    # CMSIS core headers  
+|  
+├── targetConfig/                	# CCS Target Configurations  
 
 ---
 
