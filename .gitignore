@@ -57,12 +57,3 @@
 .DS_Store
 Thumbs.db
 ehthumbs.db
-
-# --- Optional: ignore TivaWare if not bundled ---
-# /TivaWare/
-# /tivaware_c_series/
-
-# --- Optional: generated documentation ---
-/docs/html/
-/docs/latex/
-/coverage/
