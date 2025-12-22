@@ -7,7 +7,7 @@ It blinks the green LED on a periodic timer and adjusts the blink rate with **SW
 
 ---
 
-## 📂 Repository Layout
+## Repository Layout
 
 
 |  
@@ -25,7 +25,7 @@ It blinks the green LED on a periodic timer and adjusts the blink rate with **SW
 
 ---
 
-##🛠 Build & Run Instructions
+## Build & Run Instructions
 
 ### Prerequisites
 
@@ -46,12 +46,12 @@ It blinks the green LED on a periodic timer and adjusts the blink rate with **SW
 	- Connect the LaunchPad via USB  
 	- Click the debug icon or *Run → Debug* to flash and start execution.
    
-## 📄 License & Credits
+## License & Credits
 
 	- Main application code: MIT (see `LICENSE.txt`)
 	- Third-party components and their licenses: see `THIRD_PARTY_NOTICES.md`
 
-## ✨ Author
+## Author
 **Alexandre Panhaleux**  
 Embedded Software Engineer  
 [GitHub: @alexandrephl](https://github.com/alexandrephl)
